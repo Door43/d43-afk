@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[afk:home|Door43 (afk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-afk|d43-afk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-afk/archive/master.zip|d43-afk.zip]]
+
+**Recent Changes**
+{{changes>ns = afk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/afk|Ethnologue data]]
+
